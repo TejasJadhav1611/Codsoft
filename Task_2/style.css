@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+box-sizing: border-box;
+}
+.logo{
+    font-size: 30;
+   color: black;
+   line-height: 70px;
+   padding: 0 30px;
+   font-weight: bold;
+}
+.nav{
+   
+}
+.nav ul{
+    float: right;
+   
+}
+.nav ul li{
+  display: flex;
+  padding: 18px 0px;
+  display: inline-block;
+  margin: 0 5px;
+  padding-right: 50px;
+
+  
+}
+.container{
+    margin-top: 10%;
+    font-family: ;
+}
+span{
+    text-align: center;
+  padding-left: 20%;
+
+  font-size: 40;
+
+}
+.container p{
+    
+    padding-left: 25%;
+    font-size: 40;
+   
+}
+
+.container button{
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 25%;
+    width: 8%;
+    height: 6%;
+    font-size: 15;
+   
+}
+#btn2{
+    width: 12%;
+    align-items: center;
+}
+.ima img{
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 24%;
+}
+
+.natal{
+    width: auto;
+    height: 60%;
+    background-color: black;
+}
+.natal img{
+    width: 8%;
+    margin: 6%;
+    margin-left: 17%;
+    margin-top: 4%;
+   
+}
+
+.content{
+  
+    color: white;
+
+}
+.content p{
+   display: flex;
+   float: right;
+   width: 27%;
+   padding-right: 5%;
+   margin-right: 1%;
+   margin-top: 0%;
+font-size: 18;
+  
+}
+
+.refer img{
+    width: 60%;
+    margin-top: 3%;
+}
+.refer p{
+    font-size: 30;
+    display: flex;
+    float: right;
+   padding-right: 20%;
+   padding-top: 15%;
+}
+
+footer{
+    background: #111;
+    width: 100em;
+   
+ 
+}
+.sociali{
+    display: flex;
+ justify-content: center;
+}
+.footer-container{
+    display: flex;
+    justify-content: center;
+}
+.footer-container a{
+    padding: 1em;
+    background-color: #fff;
+    margin: .5em;
+    border-radius: 50em;
+    color: #111;
+    font-size: 20px ;
+    opacity: 0.9;
+}
+.footer-container a:hover{
+    background-color: #111;
+  transition: 0.8s;
+  color: #fff;
+}
+.footer-Nav ul{
+   
+display: flex;
+margin-left: 30em;
+position: relative;
+
+}
+.footer-Nav ul li{
+background-color: black;
+    margin: 20px;
+    font-size: 1.3em;
+    opacity: 0.9;
+
+    
+}
+.footer ul{
+    color: #fff;
+    padding-left: 7%;
+}
